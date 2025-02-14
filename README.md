@@ -8,4 +8,4 @@ Script :
 https://raw.githubusercontent.com/hendrik-svm/qrcode_kobar/refs/heads/main/script
 
 Contoh Video :
-https://drive.google.com/file/d/112Jm46KHo3x4jNBEZXQVfEG5AEw58Ase/view?usp=drive_link
+https://www.youtube.com/watch?v=kGNx6WdooXE
