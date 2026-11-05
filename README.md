@@ -1,11 +1,8 @@
 # qrcode_kobar
 
-script ini pungsinya untuk membuat qr_code secara automatis di aplikasi https://cloud.kotawaringinbaratkab.go.id dalam pembuatan QrCode surat digital / tanda tangan digital di lingkungan Pemerintah Kab. Kotawaringin Barat
+Skrip ini digunakan untuk membuat QR code secara otomatis di aplikasi https://cloud.kotawaringinbaratkab.go.id, khususnya dalam pembuatan surat digital dan tanda tangan digital di lingkungan Pemerintah Kabupaten Kotawaringin Barat.
 
-script ini berjalan menggunakan tampermonkey
+Skrip ini berjalan menggunakan Tampermonkey.
 
-Script :
-https://raw.githubusercontent.com/hendrik-svm/qrcode_kobar/refs/heads/main/script
-
-Contoh Video :
-https://www.youtube.com/watch?v=kGNx6WdooXE
+- **Skrip:** https://raw.githubusercontent.com/hendrik-svm/qrcode_kobar/main/qrcode.user.js
+- **Demo penggunaan:** https://youtu.be/yqHruowQC_c
